@@ -1,1 +1,145 @@
+🐧 
+Linux Command Line Lab – README
+
+
+Overview
+
+
+The Linux Command Line Lab introduces the foundational skills needed to work with Linux servers and systems. Linux is widely used in cloud computing, DevOps, and IT infrastructure, making it essential for anyone pursuing a career in DevOps or Cloud Engineering.
+
+
+
+During this lab, I learned how to navigate the Linux file system, manage files and directories, control processes, and perform basic administrative tasks. This hands-on experience strengthened my understanding of how servers operate in cloud environments like AWS EC2.
+
+Lab Objectives
+Understand the Linux file system hierarchy
+
+Navigate directories using cd, ls, pwd
+
+Manage files and directories with touch, mkdir, rm, cp, mv
+
+View and edit file contents using cat, less, nano, vi
+
+Control processes with ps, top, kill
+
+Understand and use basic permissions with chmod, chown
+
+Use networking commands like ping, ifconfig, netstat
+
+Summary
+
+
+The lab provided a practical introduction to Linux command-line operations. I learned how to efficiently navigate and manipulate the file system, understand permissions, and manage system processes. The lab emphasized problem-solving, debugging, and critical thinking when interacting with Linux servers, preparing me for real-world cloud and DevOps environments.
+
+Challenges Faced
+
+
+During the lab, I encountered some realistic challenges:
+
+Permission Denied Errors – At first, I tried to modify files without proper permissions. I learned how to use sudo and manage file ownership.
+
+Navigation Confusion – Remembering the full paths and directory structure was tricky at first. Practicing pwd and ls -l helped me understand the hierarchy.
+
+Editing Files – Using editors like vi was initially challenging. I learned basic commands like i (insert), :wq (save and quit), and navigation shortcuts.
+
+Process Management – Identifying and stopping processes required understanding process IDs and using ps and kill commands correctly.
+
+Key Skills Gained
+Efficiently navigate and manage the Linux file system
+
+Work with files, directories, and permissions
+
+Edit files using command-line editors
+
+Monitor and control system processes
+
+Use networking and system commands for troubleshooting
+
+Develop confidence in solving common Linux issues
+
+Conclusion
+
+
+The Linux Command Line Lab was an essential step in building my cloud and DevOps skills. It provided a hands-on foundation for managing Linux servers on AWS EC2 or any cloud environment. These skills are critical for automating tasks, managing servers, and understanding backend infrastructure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
