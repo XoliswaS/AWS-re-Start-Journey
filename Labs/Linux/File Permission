@@ -1,1 +1,164 @@
+🔐 File Permissions Lab – README
+
+Overview
+
+
+The Linux File Permissions Lab teaches how to manage file and directory access in Linux. Understanding permissions is crucial for maintaining security, proper access control, and ensuring that users and processes only access what they are allowed to.
+
+
+This lab focused on reading, writing, and executing permissions, ownership, and the use of commands to modify and inspect permissions.
+
+Lab Objectives
+Understand Linux file permissions (r, w, x)
+
+Identify file and directory owners and groups
+
+Use ls -l to view permissions and file details
+
+Change permissions with chmod
+
+Change file ownership with chown and chgrp
+
+Understand symbolic and numeric permission modes
+
+Apply permissions to directories and nested files
+
+Summary
+
+
+During the lab, I learned how Linux permissions control who can read, write, or execute files. I gained practical experience in modifying permissions safely, ensuring that users have the correct level of access, and preventing unauthorized actions. This knowledge is essential for system administration and cloud security, especially when managing AWS EC2 Linux instances.
+
+Challenges Faced
+
+
+Some realistic challenges encountered during the lab:
+
+Permission Denied Errors – Initially, I tried to access or modify files without sufficient permissions. Using sudo and understanding ownership solved the problem.
+
+Numeric vs. Symbolic Modes – Remembering the difference between numeric (chmod 755) and symbolic (chmod u+rwx) notation required practice.
+
+Directory Permissions Confusion – I initially didn’t realize execute (x) permission is needed on directories to traverse them.
+
+Ownership Mistakes – Changing ownership incorrectly caused some files to be inaccessible to intended users. Learning proper chown syntax fixed this.
+
+Key Skills Gained
+Read and interpret Linux file permissions (rwx)
+
+Modify file and directory permissions using chmod
+
+Change ownership with chown and groups with chgrp
+
+Apply permissions recursively to directories
+
+Diagnose and resolve permission-related errors
+
+Understand how permissions affect security and usability in Linux systems
+
+Conclusion
+
+
+The Linux File Permissions Lab provided a deep understanding of access control in Linux, which is essential for managing secure systems in cloud environments. The skills learned here will help ensure proper file management, system security, and smooth operation when working on AWS EC2 instances or other Linux servers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
